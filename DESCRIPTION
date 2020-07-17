@@ -1,0 +1,15 @@
+Package: MAPiTRpkg
+Type: Package
+Title: MAPiT R Package
+Version: 0.1.0
+Date: 2020-07-17
+Author: Karsten Kuritz <karsten.kuritz@gmail.com>
+Maintainer: Karsten Kuritz <karsten.kuritz@gmail.com>
+Description: R implementation of MAPiT for the
+	transformation of pseudotime data to meaningful scales. Application cases in
+	the associated manusucript "Reconstructing temporal and spatial dynamics in
+	single-cell experiments" are demonstrated in example code.
+Encoding: UTF-8
+LazyData: true
+License: BSD_3_clause
+RoxygenNote: 7.1.1
